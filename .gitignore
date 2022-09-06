@@ -1,0 +1,5 @@
+_build
+reveal.js
+*~
+*.agdai
+slides.html
